@@ -1,6 +1,7 @@
 # Blood_Bank_Management_System
 You can run this code by installing XAMPP 
 run the  Apache and MySQL Modules
+import the db and run the apache server
 
 
 
